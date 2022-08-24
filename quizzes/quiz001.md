@@ -1,4 +1,4 @@
-#Quiz 1 
+# Quiz 1 
 ![Solution to the quiz pic 1](https://github.com/AleksandarDzudzevic/Unit-1/blob/main/IMG_20220824_114203.jpg)
 Fig.1 solution to the quiz first picture
 ![Solution to the quiz pic 2](https://github.com/AleksandarDzudzevic/Unit-1/blob/main/IMG_20220824_114210.jpg)
@@ -9,5 +9,5 @@ The following solutions show 2 similar ways of how the program works one using f
 Fig. 3 My own black box input str output int
 ![My own blackbox program](https://github.com/AleksandarDzudzevic/Unit-1/blob/main/IMG_20220824_114222.jpg)
 
-#Solution :)
+# Solution :)
 >The program tells us number of letters that are part of the first half of the alphabet
