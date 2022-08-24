@@ -1,7 +1,7 @@
 # Homework No.1 variables and cts
 Variables that used in python are: 
 ## Intigers(int) 
-## flow 
+## float
 ## strings(str) 
 ## bool(true or false) 
 ## Bonus one is char which isn't available in all languages
