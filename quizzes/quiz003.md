@@ -1,3 +1,7 @@
+# Quiz 3
+### Given a protein that consists of A,T,C,G return a protein that changes A->T, C->G, T->A, G->C.       
+### Print the changed protein.
+Code for the following problem:
 ```.py
 protein=str(input())
 protein2=""
