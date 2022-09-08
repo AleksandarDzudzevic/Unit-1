@@ -1,6 +1,6 @@
 # Quiz 5
 ## Print all the dividers of the number (not number itself) and see if their sum is equal to the number
-![]()
+![](quiz005.jpg)
 Here is the code:
 ```.py
 num=int(input())
