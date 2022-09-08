@@ -1,5 +1,7 @@
 # Quiz 5
 ## Print all the dividers of the number (not number itself) and see if their sum is equal to the number
+![]()
+Here is the code:
 ```.py
 num=int(input())
 i=1
