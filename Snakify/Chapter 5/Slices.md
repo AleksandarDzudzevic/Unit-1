@@ -1,1 +1,13 @@
-hh
+# Unit 5 Problem 1
+```.py
+string=input()
+print(string[2])
+print(string[len(string)-2])
+print(string[0:5])
+print(string[0:-2])
+print(string[::2])
+print(string[1::2])
+print(string[::-1])
+print(string[::-2])
+print(len(string))
+```
