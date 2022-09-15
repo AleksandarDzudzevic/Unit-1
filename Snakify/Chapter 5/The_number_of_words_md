@@ -1,0 +1,5 @@
+# Unit 5 Problem 2
+```.py
+s=input()
+print(s.count(' ')+1)
+```
