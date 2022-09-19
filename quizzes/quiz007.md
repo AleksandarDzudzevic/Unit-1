@@ -1,5 +1,6 @@
 # Given a number of passwords and password size, make a random passowrd +if you can, color it as well
-Here is the code which not only coolors, but also randomizes background and text color.
+Here is the code which not only coolors, but also randomizes background and text color.(background customization is of but to turn it on just add more background options by typing Back.______ into BACK list)
+![](https://github.com/AleksandarDzudzevic/Unit-1/blob/main/Quiz007text.png)
 ```.py
 from colorama import init, Fore, Back, Style
 import math
