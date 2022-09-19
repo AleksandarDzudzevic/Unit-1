@@ -10,7 +10,8 @@ while not int1.isdigit() and counter<=5:
 if counter>5:
     exit()
 print("Entering an intiger was a success")
-int1=int%10+int1/10%10
+int1=int(int1)
+#int1=int%10+int1/10%10 not needed 
 if int1<10 and int1>0:
     print("number is perfect")
 else:
