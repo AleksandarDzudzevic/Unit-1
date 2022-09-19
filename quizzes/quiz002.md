@@ -12,3 +12,4 @@ for i,j in zip(a,b):
         output=False
         print(f"{output} for {i} and {j}")
 ```
+![](https://github.com/AleksandarDzudzevic/Unit-1/blob/main/Quiz002test.png)
