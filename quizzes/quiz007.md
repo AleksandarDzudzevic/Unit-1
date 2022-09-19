@@ -28,3 +28,5 @@ for j in range(0,passnum-1):
     a=''
 
 ```
+
+## Now that we finished the text coloring, it is much easier to use rainbow color codes for coloring
