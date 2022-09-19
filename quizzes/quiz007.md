@@ -32,5 +32,5 @@ for j in range(0,passnum):
         print(a)
     a=''
 ```
-
+![](https://github.com/AleksandarDzudzevic/Unit-1/blob/main/Quiz007test.png)
 ## Now that we finished the text coloring, it is much easier to use rainbow color codes for coloring
