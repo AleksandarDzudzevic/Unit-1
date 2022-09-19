@@ -1,7 +1,7 @@
 # Quiz 4
 ### Edit the code so the user manual is better, code is simpler...
 ![](https://github.com/AleksandarDzudzevic/Unit-1/blob/main/Quiz004text.png)
-So to conclude, what I did is i added user messages to make the program and the instructions clearer, and then I simplified the code to one if function
+So to conclude, what I did is i added user messages to make the program and the instructions clearer, and then I simplified the code to one if function and added ainput counter which closes the program after 5 unsuccessful inputs 5xnot an intiger)
 ```.py
 counter=0
 int1=(input("Enter an integer"))
