@@ -2,7 +2,7 @@
 (Additional task was transforming ascii numbers of letters into their number in the alphabet and that is done by subtracting 96 from ascii code)
 ### Here is the code for the quiz006 problem one:
 ```.py
-word=input()
+word=input("Enter the string")
 sum=0
 i=0
 for i in range (len(word)):
@@ -12,7 +12,7 @@ print(sum)
 ```
 ### Here is code for te second problem:
 ```.py
-word=input("Eneter the string")
+word=input("Enter the string")
 sum=0
 i=0
 for i in range (len(word)):
