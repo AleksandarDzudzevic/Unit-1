@@ -3,7 +3,7 @@
 ![](https://github.com/AleksandarDzudzevic/Unit-1/blob/main/quiz005.jpg)
 Here is the code:
 ```.py
-num=int(input())
+num=int(input("Enter the number"))
 i=1
 sum=0
 list=[]
