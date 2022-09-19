@@ -1,6 +1,7 @@
 # Problems relating color of the in the school 
 the first locker is red, second is white,third is yellow, fourth is blue and the colors repeat in the same order 
 ### Problem one is to print color of the each locker for the 2400 lockers in a school (I mad a table so the data is easier to see)
+![](https://github.com/AleksandarDzudzevic/Unit-1/blob/main/taskk1flowchart.jpg)
 ```.py
 #1:Just printing colors
 i=0
