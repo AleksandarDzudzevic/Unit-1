@@ -16,3 +16,4 @@ for i in range(0,len(protein)):
         protein2=protein2+"G"
 print(protein2)
 ```
+![Successful test](https://github.com/AleksandarDzudzevic/Unit-1/blob/main/Quiz003test.png)
