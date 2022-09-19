@@ -3,7 +3,7 @@
 ### Print the changed protein.
 Code for the following problem:
 ```.py
-protein=str(input())
+protein=str(input("Enter the starting protein"))
 protein2=""
 for i in range(0,len(protein)):
     if protein[i]=="A":
