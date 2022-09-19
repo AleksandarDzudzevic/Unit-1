@@ -17,3 +17,4 @@ if int1<10 and int1>0:
 else:
     print("Number is not perfect")
 ```
+![Successful test](https://github.com/AleksandarDzudzevic/Unit-1/blob/main/Quiz004test.png)
