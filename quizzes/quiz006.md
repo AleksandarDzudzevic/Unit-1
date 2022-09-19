@@ -1,5 +1,6 @@
 # Given a string sum the ascii values of every char in it 
 (Additional task was transforming ascii numbers of letters into their number in the alphabet and that is done by subtracting 96 from ascii code)
+![](https://github.com/AleksandarDzudzevic/Unit-1/blob/main/Quiz006text.png)
 ### Here is the code for the quiz006 problem one:
 ```.py
 word=input("Enter the string")
