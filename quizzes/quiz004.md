@@ -1,6 +1,6 @@
 # Quiz 4
 ### Edit the code so the user manual is better, code is simpler...
-So to conclude, what I did is i added user messages to make the program and the instructions clearer, an then I simplified the code to one if function
+So to conclude, what I did is i added user messages to make the program and the instructions clearer, and then I simplified the code to one if function
 ```.py
 counter=0
 int1=(input("Enter an integer"))
