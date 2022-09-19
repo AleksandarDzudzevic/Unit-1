@@ -17,16 +17,19 @@ def print_with_color(s, color=Fore.WHITE,brightness=Style.NORMAL, **kwargs):
 import random
 passnum=int(input("How many passwords do you need"))
 charnum=int(input("Enter how many characters should the password have"))
+x=int(input("If you want them colored click 1 if not click 0"))
 a=''
 num=32
 print("Your passwords are:".upper())
-for j in range(0,passnum-1):
+for j in range(0,passnum):
     for i in range(0,charnum):
         num=random.randint(33,126)
         a+=chr(num)
-    print_with_color(a,FORES[random.randint(0,len(FORES)-1)],BACKS[random.randint(0,len(BACKS)-1)])
+    if x==1:
+        print_with_color(a,FORES[random.randint(0,len(FORES)-1)],BACKS[random.randint(0,len(BACKS)-1)])
+    else:
+        print(a)
     a=''
-
 ```
 
 ## Now that we finished the text coloring, it is much easier to use rainbow color codes for coloring
