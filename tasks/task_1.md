@@ -1,5 +1,5 @@
 ![](https://github.com/AleksandarDzudzevic/Unit-1/blob/main/task1questions.png)
-![](https://github.com/AleksandarDzudzevic/Unit-1/blob/main/task1questions2.png)
+![](https://github.com/AleksandarDzudzevic/Unit-1/blob/main/Task1text2.2.png)
 # Problems relating color of the in the school 
 the first locker is red, second is white,third is yellow, fourth is blue and the colors repeat in the same order 
 ### Problem one is to print color of the each locker for the 2400 lockers in a school (I mad a table so the data is easier to see)
