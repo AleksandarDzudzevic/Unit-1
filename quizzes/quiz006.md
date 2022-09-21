@@ -11,6 +11,7 @@ for i in range (len(word)):
     #ord is used to get the ascii value of the character which will be useful later on
 print(sum)
 ```
+![](https://github.com/AleksandarDzudzevic/Unit-1/blob/main/Quiz006test1.png)
 ### Here is code for te second problem:
 ```.py
 word=input("Enter the string")
@@ -24,3 +25,4 @@ for i in range (len(word)):
 print("The sum of the order numbers of the letters in the string is "sum)
 
 ```
+![](https://github.com/AleksandarDzudzevic/Unit-1/blob/main/Quiz006test2.png)
