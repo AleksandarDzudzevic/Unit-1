@@ -13,3 +13,5 @@ for i,j in zip(a,b):
         print(f"{output} for {i} and {j}")
 ```
 ![](https://github.com/AleksandarDzudzevic/Unit-1/blob/main/Quiz002test.png)
+### Flow diagram
+![](https://github.com/AleksandarDzudzevic/Unit-1/blob/main/quiz002flowdiagram.jpg)
