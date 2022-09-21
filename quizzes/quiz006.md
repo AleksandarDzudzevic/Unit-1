@@ -12,6 +12,8 @@ for i in range (len(word)):
 print(sum)
 ```
 ![](https://github.com/AleksandarDzudzevic/Unit-1/blob/main/Quiz006test1.png)
+### Flow diagram for 1) and 2)
+![](https://github.com/AleksandarDzudzevic/Unit-1/blob/main/quiz006flowdiagram1and2.jpg)
 ### Here is code for te second problem:
 ```.py
 word=input("Enter the string")
