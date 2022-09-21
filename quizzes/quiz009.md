@@ -21,3 +21,6 @@ for i in range(len(word)):
         newword+=chr(((ord(word[i])-64+shft)%26+64))
 print(newword)
 ```
+![](https://github.com/AleksandarDzudzevic/Unit-1/blob/main/Quiz009test.png)
+### Flow diagram
+![](https://github.com/AleksandarDzudzevic/Unit-1/blob/main/Quiz009flowdiagram.jpg)
