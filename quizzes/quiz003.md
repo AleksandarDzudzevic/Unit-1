@@ -17,3 +17,5 @@ for i in range(0,len(protein)):
 print(protein2)
 ```
 ![Successful test](https://github.com/AleksandarDzudzevic/Unit-1/blob/main/Quiz003test.png)
+### Flow diagram
+![](https://github.com/AleksandarDzudzevic/Unit-1/blob/main/quiz003flowdiagram.jpg)
