@@ -6,10 +6,10 @@ the first locker is red, second is white,third is yellow, fourth is blue and the
 ![](https://github.com/AleksandarDzudzevic/Unit-1/blob/main/taskk1flowchart.jpg)
 ```.py
 #1:Just printing colors
-i=0
-while i<600:
-    print("||||",4*i+1,"is RED","||||",4*i+2,"is WHITE","||||",4*i+3,"is YELLOW","||||",4*i+4,"is BLUE ||||\n","_"*(len("|||| 2397 is RED |||| 2398 is WHITE |||| 2399 is YELLOW |||| 2400 is BLUE ||||")))
-    i+=1
+lockers=2400
+colors=["Blue","Red","White","Yellow"]
+for i in range(1,lockers+1):
+    print(f"Locker{i}--->{colors[i%4]}")
 ```
 ### Problem two is to answer what color will the locker be given the number of it
 ```.py
