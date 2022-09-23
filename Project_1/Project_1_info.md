@@ -1,8 +1,5 @@
 # Crypto Wallet
 
-![](22ROOSE-master768.gif)  
-<sub>Illustration for Glenn Harvey</sub>
-
 # Criteria A: Planning
 
 ## Problem definition
@@ -41,11 +38,11 @@ Justify the tools/structure of your solution
 ## Success Criteria
 1. The electronic ledger is a text-based software (Runs in the Terminal).
 2. The electronic ledger display the basic description of the cyrptocurrency selected.
-3. The electronic ledger allows to enter, withdraw and record transactions.
-4.
-5.
-6.
-
+3. The electronic ledger allows to enter, withdraw and record transactions with update the SOL price.
+4. The electronic ledger asks the real time price of the coin and then 
+The electroni ledger shows the porfolio value change(%) calculating and displaying the : value of current porfolio/total amount invested+/- expenses x100% using th eprice change from the last time
+5.Tracker of the expenses with the value displayed i USD$ and in crypto value(using the latest value input of SOL)(Possibly a colored graph as well)
+6. The ledger analysis the porfolio change and withdrawal and deposit history, and then gives some of the following suggestions: Warning for spending crypto while its price is one of the lowest ever inputed, or saying that its a good time to exchange it to dollars. (basically DCA with a conclusion)
 # Criteria B: Design
 
 ## System Diagram
@@ -56,5 +53,7 @@ Justify the tools/structure of your solution
 ## Record of Tasks
 | Task No | Planned Action                                                | Planned Outcome                                                                                                 | Time estimate | Target completion date | Criterion |
 |---------|---------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|---------------|------------------------|-----------|
-| 1       | Create system diagram                                         | To have a clear idea of the hardware and software requirements for the proposed solution                        | 10min         | Sep 24                 | B         |
+| 1       | Success Criteria                                       | Come to the agreement with the client about success criteria in order to start working                  | 45min         | Sep 23                 | A         |
+| 2     | Create system diagram                                         | To have a clear idea of the hardware and software requirements for the proposed solution                        | 10min         | Sep 24                 | B         |
+
 
