@@ -41,7 +41,7 @@ Justify the tools/structure of your solution
 3. The electronic ledger allows to enter, withdraw and record transactions with update the SOL price.
 4. The electronic ledger asks the real time price of the coin and then 
 The electroni ledger shows the porfolio value change(%) calculating and displaying the : value of current porfolio/total amount invested+/- expenses x100% using th eprice change from the last time
-5.Tracker of the expenses with the value displayed i USD$ and in crypto value(using the latest value input of SOL)(Possibly a colored graph as well)
+5. Tracker of the expenses with the value displayed i USD$ and in crypto value(using the latest value input of SOL)(Possibly a colored graph as well)
 6. The ledger analysis the porfolio change and withdrawal and deposit history, and then gives some of the following suggestions: Warning for spending crypto while its price is one of the lowest ever inputed, or saying that its a good time to exchange it to dollars. (basically DCA with a conclusion)
 # Criteria B: Design
 
