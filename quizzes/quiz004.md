@@ -18,7 +18,7 @@ if counter>5:
     exit()
 print("Entering an intiger was a success")
 #This part is the code that replaces the comlicated and unclear one from the flow diagram given in the first picture
-int1=int(int1)
+int1=int(int1) #This is neccesary because of str input that we used in order to have input checker
 if int1<10 and int1>0:
     print("Number is a single digit number")
 else:
