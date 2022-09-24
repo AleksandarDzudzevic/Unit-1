@@ -10,8 +10,8 @@ sum=0
 list=[]
 while i<=num//2:
     if num%i==0:
-        list.append(i)
-        sum+=i
+        list.append(i) #This ads the divider into a string of all dividers
+        sum+=i # summing dividers
     i+=1
 print(list)
 if sum==num:
