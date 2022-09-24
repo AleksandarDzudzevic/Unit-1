@@ -4,7 +4,7 @@ Here is the solution code for the following problem:
 ```.py
 a=[1,13,14,5]
 b=[19,7,1,4]
-for i,j in zip(a,b):
+for i,j in zip(a,b): #zip simultaneously goes through a and b, getting i(=j)th element of both
     if i+j==20 or i==20 or j==20:
         output=True
         print(f"{output} for {i} and {j}")
