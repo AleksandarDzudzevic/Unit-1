@@ -52,3 +52,7 @@ quantity=input("Enter the quantity")
 unit=input("Input the unit name")
 print(powersTen(quantity,unit))
 ```
+#### Test
+![](https://github.com/AleksandarDzudzevic/Unit-1/blob/main/Quiz010test.png)
+#### Flow diagram
+![](https://github.com/AleksandarDzudzevic/Unit-1/blob/main/Quiz010flowdiagram.jpg)
