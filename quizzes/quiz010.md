@@ -48,6 +48,7 @@ def powersTen(quantity:int,unit:str)->str:
 ### Main program
 ```.py
 from quiz010_lib import powersTen
+quantity=input("Enter the quantity")
 unit=input("Input the unit name")
-print(powersTen(1,unit))
+print(powersTen(quantity,unit))
 ```
