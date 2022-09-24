@@ -2,9 +2,9 @@
 ![](https://github.com/AleksandarDzudzevic/Unit-1/blob/main/Quiz001text.png)
 # Code
 ```.py
-word=[(i) for i in input("Enter a string").split()]
+word=[(i) for i in input("Enter a string").split()] #This function makes a list out of the string, with elemnts separated by space
 for i in range(len(word)):
-    print(f"{word[i][0]}{len(word[i])-2}{word[i][-1]}",end=' ')
+    print(f"{word[i][0]}{len(word[i])-2}{word[i][-1]}",end=' ') #Prints first char of a word number of letters in between and last char, ofr every word in string
 
 ```
 ![](https://github.com/AleksandarDzudzevic/Unit-1/blob/main/Quiz001test.png)
