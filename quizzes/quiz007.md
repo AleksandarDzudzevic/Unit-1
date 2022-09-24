@@ -3,10 +3,10 @@ Here is the code which not only coolors, but also randomizes background and text
 ![](https://github.com/AleksandarDzudzevic/Unit-1/blob/main/Quiz007text.png)
 ## SL
 ```.py
-import random
+import random #needed library in orer to use random
 a=''
 for i in range(0,19):
-    num=random.randint(33,126)
+    num=random.randint(33,126) #function for random int in range(_,_)
     a+=chr(num)
 print(a)
 ```
