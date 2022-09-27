@@ -1,3 +1,4 @@
+![](https://github.com/AleksandarDzudzevic/Unit-1/blob/main/Quiz010text.png)
 ## SL
 #### Function which I used in the main program
 ```.py
