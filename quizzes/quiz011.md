@@ -51,3 +51,5 @@ from quiz011lib import month
 month()
 ```
 ![](https://github.com/AleksandarDzudzevic/Unit-1/blob/main/Quiz011test.png)
+## Flow diagram
+![](https://github.com/AleksandarDzudzevic/Unit-1/blob/main/Quiz011flowdiagram.jpg)
