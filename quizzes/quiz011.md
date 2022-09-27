@@ -1,5 +1,5 @@
 ![](https://github.com/AleksandarDzudzevic/Unit-1/blob/main/Quiz011text.png)
-# Sl&HL (only difference that for input in the sl one I can skip name of the month and just say that a=10 (birthday=October 19))
+# Sl&HL (only difference that for input in the sl one I can skip name of the month and just say that a=10 (My birthday is in October))
 ## function
 ```.py
 twentyeight = ["February"]
