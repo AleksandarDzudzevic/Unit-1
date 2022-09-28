@@ -25,7 +25,7 @@ def month() -> str:
     week = ''
     count = 0
     day = 0
-    date = [31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31]
+    date=[31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31]
     spacenum = []
     for i in range(((sum(date[:a]) + 1) % 7 + 4) % 7):
         spacenum.insert(0, '  ')
