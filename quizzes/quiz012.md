@@ -1,4 +1,4 @@
-### FUnction that solves the program
+### Function that solves the program
 ```.py
 bold_green=green = "\033[1;32m"
 end_code="\033[00m"
