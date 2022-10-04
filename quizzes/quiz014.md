@@ -1,4 +1,3 @@
-![](https://github.com/AleksandarDzudzevic/Unit-1/blob/main/quiz014test.png)
 ```.py
 def mystery2(a:int,b:int)->int:
     '''
@@ -16,3 +15,4 @@ print(mystery2(a=60,b=5))
 print(mystery2(a=10,b=4))
 
 ```
+![](https://github.com/AleksandarDzudzevic/Unit-1/blob/main/quiz014test.png)
