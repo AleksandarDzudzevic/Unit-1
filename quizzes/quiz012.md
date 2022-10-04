@@ -1,3 +1,4 @@
+![](https://github.com/AleksandarDzudzevic/Unit-1/blob/main/quiz012text.png)
 ### Function that solves the program
 ```.py
 bold_green=green = "\033[1;32m"
