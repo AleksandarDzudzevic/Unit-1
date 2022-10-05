@@ -1,3 +1,4 @@
+![](https://github.com/AleksandarDzudzevic/Unit-1/blob/main/quiz014text.png)
 ```.py
 def mystery2(a:int,b:int)->int:
     '''
