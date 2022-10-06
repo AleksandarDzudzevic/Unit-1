@@ -99,3 +99,11 @@ def validate_int_input(msg:str)->int:
     return int(number)
 #This prints the error in red
 ```
+## Option 1 test
+![](https://github.com/AleksandarDzudzevic/Unit-1/blob/main/task2option1test.png)
+## Option 2 test
+![](https://github.com/AleksandarDzudzevic/Unit-1/blob/main/task2option2test.png)
+## Option 3 test
+![](https://github.com/AleksandarDzudzevic/Unit-1/blob/main/task2option3test.png)
+## Option 4 test
+![](https://github.com/AleksandarDzudzevic/Unit-1/blob/main/task2option4test.png)
