@@ -1,3 +1,4 @@
+![](https://github.com/AleksandarDzudzevic/Unit-1/blob/main/quiz016text.png)
 ```.py
 def blackboxthree(given:str)->str:
     output=''
