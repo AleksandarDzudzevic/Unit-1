@@ -1,4 +1,4 @@
-![](https://github.com/AleksandarDzudzevic/Unit-1/blob/main/quiz015text.png)
+![](https://github.com/AleksandarDzudzevic/Unit-1/blob/main/quiz016text.png)
 ```.py
 def open_doors(numdoors:int,students:int)->int:
     '''
