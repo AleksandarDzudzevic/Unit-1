@@ -23,3 +23,4 @@ num=int(input("Enter the number"))
 print(mulTable(num))
 ```
 ![](https://github.com/AleksandarDzudzevic/Unit-1/blob/main/quiz012test.png)
+![](https://github.com/AleksandarDzudzevic/Unit-1/blob/main/Quiz012flowchart.jpg)
